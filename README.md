@@ -16,6 +16,6 @@ JDK版本默认1.8。IDE使用的是Eclipse和IDEA。
 
 #### 三、项目列表
 
-- 项目名：Swagger2-Demo（在SpringBoot项目中集成Swagger2)；
-- 项目名:MyBatis-Plus-Demo(在SpringBoot项目中集成MyBatis-Plus，并尝试各种黑科技CRUD)；
+- 项目名：Swagger2-Demo（在SpringBoot项目中集成Swagger2，这是一个参考DZone上一位大叔写的文章来实现的。)
+- 项目名:MyBatis-Plus-Demo(在SpringBoot项目中集成MyBatis-Plus，并尝试各种黑科技CRUD)
 
