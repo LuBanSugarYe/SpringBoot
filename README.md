@@ -17,6 +17,6 @@ JDK版本默认1.8。IDE使用的是Eclipse和IDEA。
 #### 三、项目列表
 
 - 项目名：Swagger2-Demo（在SpringBoot项目中集成Swagger2，这是一个参考DZone上一位大叔写的文章来实现的。)
-- 项目名:MyBatis-Plus-Demo(在SpringBoot项目中集成MyBatis-Plus，并尝试各种黑科技CRUD)。此项目中采用H2内存数据，进行学习演示。启动项目，利用maven快速构建项目，启动项目，在浏览器地址栏输入`http://localhost:8080/swagger-ui.html`可以查看相关演示接口及返回数据。为了方便学习，控制台开启了sql语句打印。
-- 项目名:platform(这是一个多模块化的一个简单的例子)，主要用于一些对分层有要求的团队。
+- 项目名: MyBatis-Plus-Demo(在SpringBoot项目中集成MyBatis-Plus，并尝试各种黑科技CRUD)。此项目中采用H2内存数据，进行学习演示。启动项目，利用maven快速构建项目，启动项目，在浏览器地址栏输入`http://localhost:8080/swagger-ui.html`可以查看相关演示接口及返回数据。为了方便学习，控制台开启了sql语句打印。
+- 项目名: platform(这是一个多模块化的一个简单的例子)，主要用于一些对分层有要求的团队。
 - 项目名：turing（这是一个常规的练习项目，展示如何使用容器启动函数、JPA等）。
